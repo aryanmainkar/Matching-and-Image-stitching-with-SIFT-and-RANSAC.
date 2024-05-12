@@ -2,7 +2,7 @@ This assignment covers keypoint matching and image stitching with SIFT and RANSA
 
 # Keypoint Detectors
 
-The first part of assignment 2 is all about keypoint detection. Being able to work with and evaluate a range of keypoint detectors is important for many computer vision tasks. To evaluate the efficacy of these detectors, you will evaluate them on the CIFAR-10 dataset.
+This assignment is all about keypoint detection. Being able to work with and evaluate a range of keypoint detectors is important for many computer vision tasks. To evaluate the efficacy of these detectors, you will evaluate them on the CIFAR-10 dataset.
 
 You will evaluate Histogram of Oriented Gradients and SIFT features both qualitatively and quantitatively. You will then use these features to train a simple classifier and evaluate the performance of each feature set on the CIFAR-10 dataset.
 
